@@ -1,4 +1,5 @@
 This is my progress with data structures offered at the University of California, Merced.
+-----------------------------------------------------------------------------------------
 Time it took
 ------------
 Start: Janurary 18th, 2022 End: May 13th, 2022
